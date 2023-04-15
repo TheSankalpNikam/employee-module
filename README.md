@@ -2,10 +2,10 @@
 ->Internship Project
 
 On an ongoing, I created a separate module called as 'Employee' using,
-HTML, CSS, JS for front-end
-Java V1.8 for back-end and (J2EE) server-side validation
-Struts V1 as a Framework
-MySQL V5 as a database
+- HTML, CSS, JS for front-end
+- Java V1.8 for back-end and (J2EE) server-side validation
+- Struts V1 as a Framework
+- MySQL V5 as a database
 
 Working of the module:-
 - Will list all the employees
