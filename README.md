@@ -26,5 +26,6 @@ Employee module fields are as follows,
 - City (Dropdown list along with 'AutoFill' feature as well and city will be displayed based on the country selected)
 - Description regarding the employee (Text-editor where employee can write, style and edit text)
 - File uploaded by the employee (File upload feature like resume, image or documents)
+- Hobbies (Multi selected drop-down is used)
 
 This is just sub-module of the bigger picture.
